@@ -1,0 +1,15 @@
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\bin\Debug\Sanford.Multimedia.Midi.dll
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\bin\Debug\Sanford.Multimedia.Midi.pdb
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\bin\Debug\Sanford.Collections.dll
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\bin\Debug\Sanford.Multimedia.dll
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\bin\Debug\Sanford.Multimedia.Timers.dll
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\bin\Debug\Sanford.Threading.dll
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\Sanford.Multimedia.Midi.UI.DeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\Sanford.Multimedia.Midi.UI.InputDeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\Sanford.Multimedia.Midi.UI.OutputDeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\Sanford.Multimedia.Midi.UI.PianoControlDialog.resources
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\ResGen.read.1.tlog
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\ResGen.write.1.tlog
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\Sanford.Multimedia.Midi.dll
+\\banner.main.ad.rit.edu\students\cmk3751\IGMProfile\Desktop\CSharpMidiToolkitV5_demo\Sanford.Multimedia.Midi\obj\Debug\Sanford.Multimedia.Midi.pdb

@@ -1,0 +1,71 @@
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\SampleMidiUse.exe
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\SampleMidiUse.pdb
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Collections.dll
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Multimedia.dll
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Multimedia.Timers.dll
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Threading.dll
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.DeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.InputDeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.OutputDeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.PianoControlDialog.resources
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.read.1.tlog
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.write.1.tlog
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.exe
+\\banner.main.ad.rit.edu\students\cmk3751\igmprofile\documents\visual studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.pdb
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.exe
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.pdb
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\SampleMidiUse.exe
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\SampleMidiUse.pdb
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Collections.dll
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Multimedia.dll
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Multimedia.Timers.dll
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Threading.dll
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.DeviceDialog.resources
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.InputDeviceDialog.resources
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.OutputDeviceDialog.resources
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.PianoControlDialog.resources
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.write.1.tlog
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.exe
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.pdb
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\bin\Debug\SampleMidiUse.exe
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\bin\Debug\SampleMidiUse.pdb
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Collections.dll
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Multimedia.dll
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Multimedia.Timers.dll
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Threading.dll
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.DeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.InputDeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.OutputDeviceDialog.resources
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.PianoControlDialog.resources
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.read.1.tlog
+\\banner.main.ad.rit.edu\students\cxm7805\IGMProfile\Desktop\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.exe
+F:\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.pdb
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.exe
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.pdb
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.DeviceDialog.resources
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.InputDeviceDialog.resources
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.OutputDeviceDialog.resources
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.PianoControlDialog.resources
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.read.1.tlog
+\\banner.main.ad.rit.edu\students\ejb6498\IGMProfile\Documents\Visual Studio 2010\Projects\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.exe
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.DeviceDialog.resources
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.InputDeviceDialog.resources
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.OutputDeviceDialog.resources
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\Sanford.Multimedia.Midi.UI.PianoControlDialog.resources
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\bin\Debug\SampleMidiUse.exe
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\bin\Debug\SampleMidiUse.pdb
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Collections.dll
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Multimedia.dll
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Multimedia.Timers.dll
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\bin\Debug\Sanford.Threading.dll
+D:\Users\cmk3751\Dropbox\ACTUALLY THE PROJECT\SampleMidiUse\SampleMidiUse\obj\x86\Debug\SampleMidiUse.pdb
